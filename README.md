@@ -5,7 +5,7 @@
 <p align="center">
   Paper link:
   <br/>
-  <a href="https://ieeexplore.ieee.org/document/10262799/">Download on JIPI</a>
+  <a href="https://ieeexplore.ieee.org/document/10262799/">View on IEEE</a>
 </p>
 
 <p align="center">
